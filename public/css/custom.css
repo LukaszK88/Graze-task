@@ -1,0 +1,13 @@
+.custom-alert{
+    margin-left: 40%!important;
+    z-index: 1500;
+}
+.shadow{
+    -webkit-box-shadow: 7px 7px 53px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 7px 53px -6px rgba(0,0,0,0.75);
+    box-shadow: 7px 7px 53px -6px rgba(0,0,0,0.75);
+}
+.logo{
+    position: absolute;
+    margin-left: 15%;
+}
